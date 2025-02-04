@@ -1,0 +1,79 @@
+{
+  "projects":[
+
+    {
+      "name":"WebAware",
+      "time":"(DEC 2015)",
+      "type":"Full Stack Development",
+      "url":"",
+      "live":"",
+      "progress":true
+    },
+    {
+      "name":"HackMerced",
+      "time":"(DEC 2015)",
+      "type":"Partner",
+      "url":"",
+      "live":"",
+      "progress":true
+    },
+    {
+      "name":"Entite",
+      "time":"(NOV 2015)",
+      "type":"Studio Work",
+      "url":"",
+      "live":""
+    },
+    {
+      "name":"Change",
+      "time":"(NOV 2015)",
+      "type":"HACK (HackingEdu)",
+      "url":"",
+      "live":""
+    },
+    {
+      "name":"ReRoute",
+      "time":"(OCT 2015)",
+      "type":"HACK (Calhacks 2.0)",
+      "url":"",
+      "live":""
+    },
+    {
+      "name":"Infinera",
+      "time":"(AUG 2015)",
+      "type":"Full Stack Development",
+      "url":"",
+      "live":"",
+      "progress":true
+    },
+
+    {
+      "name":"Infinera",
+      "time":"(JUN 2015)",
+      "type":"Internship",
+      "url":"",
+      "live":""
+    },
+    {
+      "name":"DataStack",
+      "time":"(NOV 2014)",
+      "type":"Startup",
+      "url":"",
+      "live":""
+    },
+    {
+      "name":"Huntlytics",
+      "time":"(Jan 2014)",
+      "type":"Hack",
+      "url":"",
+      "live":""
+    },
+    {
+      "name":"HubYard",
+      "time":"(July 2013)",
+      "type":"Open Source",
+      "url":"",
+      "live":""
+    }
+  ]
+}

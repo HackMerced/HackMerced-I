@@ -1,0 +1,35 @@
+doctype html
+html
+    head
+        meta(charset='utf-8')
+        meta(http-equiv='X-UA-Compatible', content='IE=edge')
+        - var site_description = "HackMerced is UC Merced's first Hackaton. Our Hackathon will celebrate modernity, innovation, and diversity - come enjoy it with us"
+        - var site_title = 'HackMerced - A Hackathon for the 21st Century'
+
+        meta(name="description" content= site_description)
+        meta(name="viewport" content="width=device-width, initial-scale=1")
+
+        meta(itemprop='name', content= site_title)
+        meta(itemprop='description', content= site_description)
+        meta(itemprop='image', content='http://hackmerced.com/img/cover.png')
+
+        meta(name='twitter:card', content='HackMerced')
+        meta(name='twitter:site', content='@hackmerced')
+        meta(name='twitter:title', content= site_title)
+        meta(name='twitter:description', content= site_description)
+        meta(name='twitter:creator', content='@4shub')
+        meta(name='twitter:image', content='http://hackmerced.com/img/cover.png')
+
+        meta(property='og:title', content= site_title)
+        meta(property='og:type', content='website')
+        meta(property='og:url', content='http://hackmerced.com/')
+        meta(property='og:image', content='http://hackmerced.com/img/cover.png')
+        meta(property='og:description', content= site_description)
+        meta(property='og:site_name', content='HackMerced')
+
+        title= site_title
+        link(href='/css/style.css', rel='stylesheet', type='text/css')
+        script(src='https://www.promisejs.org/polyfills/promise-7.0.1.min.js')
+        script(src='/js/home/home.js', type='text/javascript')
+    body
+    block content

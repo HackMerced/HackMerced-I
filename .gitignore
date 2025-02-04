@@ -1,0 +1,3 @@
+./assets/api-data
+./assets/api-data/*
+node_modules
